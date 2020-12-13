@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3def8c7e-66c3-4cf4-9f97-29bf275ebabb}</ProjectGuid>
+    <ProjectGuid>{9fb73a02-3a13-4e64-b915-31c713f8488c}</ProjectGuid>
     <RootNamespace>exo3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\TP2bis\EXO3\exercice3.c" />
+    <ClCompile Include="exercice3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
