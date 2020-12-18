@@ -1,2 +1,1 @@
-TP6 fait avec l'aide de Jacques Ndjenje
-Quelques programmesdu TP6réalisés avec l'aide de Jacques Ndjenje
+Quelques programmes du TP6 ont été faits avec l'aide de Jacques Ndjenje
